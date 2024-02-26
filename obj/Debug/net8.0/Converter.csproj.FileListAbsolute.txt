@@ -1,0 +1,14 @@
+c:\Users\gamer\Converter\bin\Debug\net8.0\Converter.exe
+c:\Users\gamer\Converter\bin\Debug\net8.0\Converter.deps.json
+c:\Users\gamer\Converter\bin\Debug\net8.0\Converter.runtimeconfig.json
+c:\Users\gamer\Converter\bin\Debug\net8.0\Converter.dll
+c:\Users\gamer\Converter\bin\Debug\net8.0\Converter.pdb
+c:\Users\gamer\Converter\obj\Debug\net8.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gamer\Converter\obj\Debug\net8.0\Converter.AssemblyInfoInputs.cache
+c:\Users\gamer\Converter\obj\Debug\net8.0\Converter.AssemblyInfo.cs
+c:\Users\gamer\Converter\obj\Debug\net8.0\Converter.csproj.CoreCompileInputs.cache
+c:\Users\gamer\Converter\obj\Debug\net8.0\Converter.dll
+c:\Users\gamer\Converter\obj\Debug\net8.0\refint\Converter.dll
+c:\Users\gamer\Converter\obj\Debug\net8.0\Converter.pdb
+c:\Users\gamer\Converter\obj\Debug\net8.0\Converter.genruntimeconfig.cache
+c:\Users\gamer\Converter\obj\Debug\net8.0\ref\Converter.dll
